@@ -22,7 +22,7 @@ showChat.addEventListener("click", () => {
 const user = prompt("Enter your name");
 
 var peer = new Peer({
-  host: '127.0.0.1',
+  host: 'https://video-conferencing-dz2x.onrender.com',
   port: 5000,
   path: '/peerjs',
   config: {
