@@ -12,7 +12,6 @@ Welcome to the Video Conferencing Project! This project utilizes Node.js, and EJ
 
 ## Technologies Used
 
-- React
 - Node.js
 - EJS Templates
 - [WebRTC](https://webrtc.org/): Used for real-time video communication.
