@@ -29,6 +29,6 @@ To get started with this project, follow these steps:
    cd video-conferencing
    node index.js
 ## Project SnapShot
-![video2](https://github.com/pitabasdev/video-conferencing/assets/85897297/578a2843-0a08-4b13-960e-3e6c1b3c5d97)
 ![video1](https://github.com/pitabasdev/video-conferencing/assets/85897297/0bf7adaf-39ec-41ad-adbd-3f86a3ce42a9)
+![video2](https://github.com/pitabasdev/video-conferencing/assets/85897297/578a2843-0a08-4b13-960e-3e6c1b3c5d97)
 ![video3](https://github.com/pitabasdev/video-conferencing/assets/85897297/810ecdf7-f02a-4d5d-be39-a98f5d39bd1b)
